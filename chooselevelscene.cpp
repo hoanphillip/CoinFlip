@@ -6,6 +6,8 @@
 #include <QTimer>
 #include <QLabel>
 #include <QSound>
+
+//hoanc20200331
 ChooseLevelScene::ChooseLevelScene(QWidget *parent) : QMainWindow(parent)
 {
     int i;
